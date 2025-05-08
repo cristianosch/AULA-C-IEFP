@@ -1,8 +1,8 @@
-🧮 Exercícios em Linguagem C
+#🧮 Exercícios em Linguagem C
 
 * Repositório com minha prática em C, com foco em conceitos como estruturas de controle, vetores, funções, ponteiros e recursividade.
 
-✅ Lista de Exercícios
+#✅ Lista de Exercícios
 
 	Tema				Descrição
 Entrada e saída			Lê um número e imprime
@@ -24,12 +24,12 @@ Vetor ordenado			Recebe um vetor e imprime em ordem crescente
 Recursão de cauda		Demonstra recursão de cauda com exemplo prático
 Jogo da velha			Jogo da velha no terminal em modo texto
 
-⚙️ Como executar
+#⚙️ Como executar
 
 * Clone o repositório:
   
-	git clone https://github.com/seu-usuario/seu-repositorio.git
-	cd seu-repositorio
+		git clone https://github.com/seu-usuario/seu-repositorio.git
+		cd seu-repositorio
 
 * Compile o exercício desejado:
 Exemplo: 
